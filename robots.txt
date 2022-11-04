@@ -1,3 +1,3 @@
 https://Julianivarra.github.io/sitemap.xml
-User-agent: * (J)
-Allow: / J
+User-agent: * (Julianivarra)
+Allow: / Julianivarra
